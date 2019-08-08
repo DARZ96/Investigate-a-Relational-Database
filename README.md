@@ -1,4 +1,4 @@
-# Investigate-a-Relational-Database 
+# Investigate a Relational Database 
 
 ## Summary 
 Used SQL to explore a relational database while working with PostgreSQL. 
